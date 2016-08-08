@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
+  <App xmlns="" ProductID="{9b8183b7-8fca-4464-b7a8-1f0fca517ba7}" Title="OMICH" RuntimeType="XNA" Version="2.0.0.0" Genre="Apps.Normal" Author="" Description="" Publisher="">
+    <IconPath IsRelative="true" IsResource="false"></IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_MEDIALIB" />
+      <Capability Name="ID_CAP_GAMERSERVICES" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default"/>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="OMICH_WP7Token" TaskName="_default">
+        <TemplateType5>
+          <BackgroundImageURI IsRelative="true" IsResource="false"></BackgroundImageURI>
+          <Count>0</Count>
+          <Title></Title>
+        </TemplateType5>
+      </PrimaryToken>
+    </Tokens>
+  </App>
+</Deployment>
+
