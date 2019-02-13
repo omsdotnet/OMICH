@@ -11,6 +11,6 @@
 - Windows 7 + Visual Studio 2010 Express for Windows Phone
 - Windows 8 + Visual Studio 2012 Express for Windows Phone 
   
-# Project promo:
+# Project Promo:
 
 ![1](https://github.com/omsdotnet/OMICH/blob/master/promo/Welcome_to_Omsk.png?raw=true)
